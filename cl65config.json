@@ -1,0 +1,6 @@
+{
+   "executable": "/Users/kevinerdogan/software-lib/cc65/bin/ca65",
+   "input" : "example.s",
+   "params" : "--verbose --target nes -o demo.nes"
+
+}
